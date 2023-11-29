@@ -2,3 +2,5 @@
 var helper = 0;
 
 Console.WriteLine(helper);
+
+var help = "helper";

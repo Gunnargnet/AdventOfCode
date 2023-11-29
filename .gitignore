@@ -4,3 +4,6 @@
 
 /Day1/bin/Debug/net6.0
 /Day1/obj/Debug/net6.0
+/.vs
+/Day1/obj/Release/net6.0
+/Day1/bin/Release/net6.0
