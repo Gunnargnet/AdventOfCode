@@ -1,7 +1,5 @@
-﻿Console.WriteLine("Hello, World!");
-var helper = 0;
+﻿var utils = new Day1.Utils();
 
-Console.WriteLine(helper);
+var test = utils.GetImportedData("NewFile");
 
-var help = "helper";
-var times = 0;
+Console.WriteLine(test);
